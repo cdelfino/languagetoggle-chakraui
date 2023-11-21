@@ -1,5 +1,5 @@
 # languagetoggle-chakraui
-https://cdelfino.github.io/languagetoggle-chakraui/
+https://main.d2t6v2h18nb2qs.amplifyapp.com/
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
